@@ -1,0 +1,8 @@
+{
+  "name": "person-resume-html-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MartinLilt/person-resume-html-site.git",
+  "author": "Martin Li <80705619+MartinLilt@users.noreply.github.com>",
+  "license": "MIT"
+}
